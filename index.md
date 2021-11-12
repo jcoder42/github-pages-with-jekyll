@@ -1,5 +1,7 @@
 ---
-title: "Welcome to my blog"
+title: "SolXNFT"
 ---
 
-I'm glad you are here. I plan to talk about ...
+What is SolXNFT?
+What is Sol or Solana?
+What is an NFT?
